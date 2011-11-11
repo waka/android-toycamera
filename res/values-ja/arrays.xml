@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_list">
+	    <item>ビンテージ(緑)</item>
+	    <item>チルトシフト</item>
+        <item>モノトーン</item>
+        <item>セピア</item>
+	    <item>顔モザイク</item>
+	    <item>なし</item>
+    </string-array>
+	<string-array name="filtervalue_list">
+		<item>vgreen</item>
+		<item>tiltshift</item>
+		<item>monotone</item>
+		<item>sepia</item>
+		<item>mosaic</item>
+		<item>default</item>
+	</string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleToyCam</string>
+    <string name="preference_label">設定</string>
+    <string name="filter_title">フィルタ</string>
+    <string name="filter_summary">撮影した写真にかけるフィルタを選んでください</string>
+    <string name="filter_dialogTitle">フィルタ</string>
+</resources>

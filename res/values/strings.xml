@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleToyCam</string>
+    <string name="preference_label">Preferences</string>
+    <string name="filter_title">Filter</string>
+    <string name="filter_summary">Select use image filter effect.</string>
+    <string name="filter_dialogTitle">Filter</string>
+</resources>
