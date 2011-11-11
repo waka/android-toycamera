@@ -9,9 +9,9 @@ Feature
 
 - Silent shutter
 - Photo effect
--- Vintage green
--- Tilt shift like
--- Sepia
--- Monotone
--- Face mosaic (heavy...)
--- No effect
+  - Vintage green
+  - Tilt shift like
+  - Sepia
+  - Monotone
+  - Face mosaic (heavy...)
+  - No effect
